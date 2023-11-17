@@ -54,32 +54,22 @@ html {
     left: 421px;
 }
 
-#piano.speaker {
-    width: 992px;
+.speaker {
+    height: 40px;
+    width: 40px;
     position: relative;
     display: flex;
-    justify-items: center;
-    top: 12px;
+    fle;
 }
 
 .left-speaker {
-    left: 35px;
-}
-
-.right-speaker {
-    right: 35px;
-}
-
-.left-speaker,
-.right-speaker {
-    top: 12px;
     position: absolute;
-    border: 2px solid #000;
-    border-radius: 5px;
+    left: 15px;
+    top: 30px;
 }
 
-.speaker img {
-    height: 60px;
-    width: 50px;
-    padding: 3px;
+.right-speaker {
+    position: absolute;
+    left: 15px;
+    top: 30px;
 }

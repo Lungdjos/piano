@@ -75,11 +75,10 @@ html {
     top: 12px;
     position: absolute;
     border: 2px solid #000;
-    border-radius: 5px;
+    border-
 }
 
 .speaker img {
     height: 60px;
     width: 50px;
-    padding: 3px;
 }
