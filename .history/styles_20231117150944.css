@@ -99,13 +99,7 @@ html {
         width: 75px;
         left: 159px;
     }
-}
-
-@media (min-width: 769px) and (max-width: 1199px) {
-    #piano {
-        width: 675px;
-    }
-    .keys {
-        width: 633px;
+}       left: 159px;
     }
 }
+@media (min-width:)

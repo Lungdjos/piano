@@ -86,7 +86,7 @@ html {
 }
 
 
-/* for small devices */
+/*  */
 
 @media (max-width: 768px) {
     #piano {
@@ -101,11 +101,8 @@ html {
     }
 }
 
-@media (min-width: 769px) and (max-width: 1199px) {
-    #piano {
-        width: 675px;
-    }
-    .keys {
-        width: 633px;
-    }
+@media @media (min-width:)
 }
+
+}
+@media (min-width) 769px)and() @media (min-width) 769px)and())

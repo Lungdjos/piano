@@ -34,7 +34,6 @@ html {
     margin: 2px;
     float: left;
     border-radius: 0 0 3px 3px;
-    overflow: hidden;
 }
 
 .key.black--key::after {
@@ -64,11 +63,11 @@ html {
 }
 
 .left-speaker {
-    left: 22px;
+    left: 25px;
 }
 
 .right-speaker {
-    right: 22px;
+    right: 23px;
 }
 
 .left-speaker,
@@ -83,29 +82,4 @@ html {
     height: 55px;
     width: 55px;
     padding: 3px;
-}
-
-
-/* for small devices */
-
-@media (max-width: 768px) {
-    #piano {
-        width: 358px;
-    }
-    .keys {
-        width: 318px;
-    }
-    .logo {
-        width: 75px;
-        left: 159px;
-    }
-}
-
-@media (min-width: 769px) and (max-width: 1199px) {
-    #piano {
-        width: 675px;
-    }
-    .keys {
-        width: 633px;
-    }
 }

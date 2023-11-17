@@ -86,7 +86,7 @@ html {
 }
 
 
-/* for small devices */
+/*  */
 
 @media (max-width: 768px) {
     #piano {
@@ -106,6 +106,6 @@ html {
         width: 675px;
     }
     .keys {
-        width: 633px;
+        width
     }
 }
