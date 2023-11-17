@@ -33,7 +33,6 @@ html {
     position: relative;
     margin: 2px;
     float: left;
-    border-radius: 0 0 3px 3px;
 }
 
 .key.black--key::after {
@@ -43,7 +42,7 @@ html {
     left: -18px;
     width: 32px;
     height: 105px;
-    border-radius: 0 0 4px 4px;
+    border-radius: ;
 }
 
 .logo {
