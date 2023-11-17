@@ -6,7 +6,6 @@ html {
  ::before,
  ::after {
     box-sizing: inherit;
-    border-radius: 2px;
 }
 
 #piano {
@@ -14,21 +13,11 @@ html {
     width: 992px;
     height: 290px;
     margin: 80px auto;
-    padding: 90px 20px 0 20px;
 }
 
 .keys {
     background-color: #040404;
     width: 949px;
     height: 180px;
-    padding-left: 2px;
-}
-
-.key {
-    background-color: #fff;
-    height: 175px;
-    width: 41px;
-    position: relative;
-    margin: 2px;
-    float: left;
+    padding-left: ;
 }
